@@ -1,0 +1,9 @@
+:nnoremap <F8> :setl noai nocin nosi inde=<CR>
+:nnoremap <F1> :tabn<CR>
+:nnoremap <F2> :tabp<CR>
+
+:set number
+:set smartcase ignorecase incsearch
+
+:set tabstop=4 shiftwidth=4 expandtab
+:set softtabstop=4
